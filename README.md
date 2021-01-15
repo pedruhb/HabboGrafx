@@ -1,6 +1,6 @@
 # HabboGrafx
-HabboGrafx APP para Windows
-Compatível com 32 e 64bits
+HabboGrafx APP para Windows e macOS
+Compatível com Windows 32 e Windows/mac 64bits
 
 Para baixar vá em releases e baixe o aplicativo em sua última versão.
 
